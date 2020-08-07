@@ -2,6 +2,15 @@
 
 A new Flutter project.
 
+## Video Tutorial
+
+- [Full Video Link](https://youtu.be/sXAYIB5uWME)
+
+
+## Screenshot
+
+![Screenshot](ss.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
